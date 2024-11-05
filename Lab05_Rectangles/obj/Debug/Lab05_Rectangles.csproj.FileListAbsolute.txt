@@ -1,0 +1,10 @@
+C:\Users\Student_PL\source\repos\Lab05_Rectangles\bin\Debug\Lab05_Rectangles.exe.config
+C:\Users\Student_PL\source\repos\Lab05_Rectangles\bin\Debug\Lab05_Rectangles.exe
+C:\Users\Student_PL\source\repos\Lab05_Rectangles\bin\Debug\Lab05_Rectangles.pdb
+C:\Users\Student_PL\source\repos\Lab05_Rectangles\obj\Debug\Lab05_Rectangles.csprojAssemblyReference.cache
+C:\Users\Student_PL\source\repos\Lab05_Rectangles\obj\Debug\Lab05_Rectangles.Form1.resources
+C:\Users\Student_PL\source\repos\Lab05_Rectangles\obj\Debug\Lab05_Rectangles.Properties.Resources.resources
+C:\Users\Student_PL\source\repos\Lab05_Rectangles\obj\Debug\Lab05_Rectangles.csproj.GenerateResource.cache
+C:\Users\Student_PL\source\repos\Lab05_Rectangles\obj\Debug\Lab05_Rectangles.csproj.CoreCompileInputs.cache
+C:\Users\Student_PL\source\repos\Lab05_Rectangles\obj\Debug\Lab05_Rectangles.exe
+C:\Users\Student_PL\source\repos\Lab05_Rectangles\obj\Debug\Lab05_Rectangles.pdb
