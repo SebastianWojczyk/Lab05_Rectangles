@@ -60,6 +60,16 @@ namespace Lab05_Rectangles
         {
             if (e.Button == MouseButtons.Left)
             {
+                rectangleToMove = null;
+                foreach (MyRectangle rect in listRectangles)
+                {
+                    if (rect.Contains(e.Location))
+                    {
+                        rectangleToMove = rect;
+                        pointTMP = e.Location;
+                    }
+                }
+                /*
                 listRectangles.Reverse();
                 foreach (MyRectangle rect in listRectangles)
                 {
@@ -77,6 +87,7 @@ namespace Lab05_Rectangles
                     }
                 }
                 listRectangles.Reverse();
+                */
             }
         }
 
